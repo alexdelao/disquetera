@@ -1,0 +1,5 @@
+Nombre del disco: NUEVO DISCO
+Año: 1992
+Artista: Yopli
+1.- cancion 1
+2.- cancion 2
